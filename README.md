@@ -1,7 +1,7 @@
 # Axen Logic
 
 
-On-Demand SAP Consulting — Solution Architect, BTP, and Expert Delivery
+On-Demand SAP Consulting — SAP Solution Architect, BTP, and Expert Delivery
 Senior SAP expertise delivered without the overhead of a big firm. Solution architecture, S/4HANA, BTP, and fractional leadership — when you need it.
 
 ---
